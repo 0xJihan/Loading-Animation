@@ -150,7 +150,7 @@ fun OrbitLoading(modifier: Modifier = Modifier) {
 
 ## Blurred Text Animation
 
-``` 
+```kotlin 
 import android.graphics.BlurMaskFilter
 import android.graphics.Paint
 import android.graphics.Rect
